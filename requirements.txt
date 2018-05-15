@@ -2,3 +2,5 @@ tqdm
 records
 babel
 tabulate
+
+jsonlines
